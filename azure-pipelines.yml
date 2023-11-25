@@ -7,7 +7,7 @@ trigger:
 - main
 
 pool:
-  name: amin-thinkpad
+  name: Default
 
 steps:
 - task: ArchiveFiles@2
